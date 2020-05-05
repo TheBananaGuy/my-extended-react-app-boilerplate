@@ -1,6 +1,6 @@
 # My extended React app boilerplate
 
-Extended `create-react-app` boilerplate with `eslint` and `prettier` combo, some VSCode settings, and `node-sass`.
+I got tired of going through the process of setup from ground zero all the time, so I extended `create-react-app` boilerplate with `eslint` and `prettier` combo, some VSCode settings, `react-bootstrap`, and `node-sass`. This is just for me to use, and for you to look at. Feel free to use it if you want, or suggest improvements.
 
 The rest of this `readme` is from the initial boilerplate.
 
