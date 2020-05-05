@@ -3,6 +3,7 @@
 Extended `create-react-app` boilerplate with `eslint` and `prettier` combo, some VSCode settings, and `node-sass`.
 
 The rest of this `readme` is from the initial boilerplate.
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
